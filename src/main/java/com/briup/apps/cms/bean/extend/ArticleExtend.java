@@ -10,7 +10,7 @@ import com.briup.apps.cms.bean.Comment;
  * 
  * @ClassName: ArticleExtend
  * @Description: 文章的扩展类
- * @Author zhangcg
+ * @Author 张晨光
  * @DateTime 2019年11月15日 上午11:08:32
  */
 public class ArticleExtend extends Article{
